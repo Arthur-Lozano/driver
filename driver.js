@@ -22,4 +22,5 @@ function pickUp(payload) {
   }, 3000)
 }
 
+module.exports = pickUp;
 
